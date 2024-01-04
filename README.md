@@ -10,11 +10,11 @@ This repository contains code and materials for labs completed as part of the NV
 
 2. **Lab 2: Computer Vision with Convolutional Neural Networks (CNNs)**
    - Description: Overview of the second lab.
-   - Code: [Link to Lab 2 Code]([link-to-lab2-folder](https://github.com/manik-sethi/NVDLI/blob/main/02_asl.ipynb))
+   - Code: [Link to Lab 2 Code](https://github.com/manik-sethi/NVDLI/blob/main/02_asl.ipynb)
 
 3. **Lab 3: Natural Language Processing with Recurrent Neural Networks (RNNs)**
    - Description: Summary of the third lab.
-   - Code: [Link to Lab 3 Code]([link-to-lab3-folder](https://github.com/manik-sethi/NVDLI/blob/main/03_asl_cnn.ipynb))
+   - Code: [Link to Lab 3 Code](https://github.com/manik-sethi/NVDLI/blob/main/03_asl_cnn.ipynb)
 
 ## Getting Started
 
