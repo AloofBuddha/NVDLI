@@ -20,4 +20,7 @@ In this section we will do the "Hello World" of deep learning: training a deep l
 - Train the neural network using the prepped MNIST dataset
 - Observe the performance of the trained neural network
 
-> [Link to Lab 1 Code](./01_mnist.ipynb)
+### Code
+
+- [local](./01_mnist.ipynb)
+- [colab](https://colab.research.google.com/github/AloofBuddha/NVDLI/blob/main/01_mnist.ipynb)
