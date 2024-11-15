@@ -4,8 +4,7 @@ This repository contains code and materials for labs completed as part of the NV
 
 ## Usage
 
-- Create a virtual env
-- `pip install -r requirements.txt`
+- These have been designed to run on Colab
 
 ## Lab 1: Image Classification with the MNIST Dataset
 
