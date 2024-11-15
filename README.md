@@ -22,5 +22,4 @@ In this section we will do the "Hello World" of deep learning: training a deep l
 
 ### Code
 
-- [local](./01_mnist.ipynb)
-- [colab](https://colab.research.google.com/github/AloofBuddha/NVDLI/blob/main/01_mnist.ipynb)
+- [01_mnnist](./01_mnist.ipynb)
